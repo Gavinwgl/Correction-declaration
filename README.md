@@ -1,9 +1,10 @@
 # NOTE: This will be moved to our new homepage soon, waiting for information update.
 Correction declaration of the publications
 
+IMPORTANT: In China, Google, Gmail, and IEEE mail via google are banned, so I only check my emails in three or four months. But don't worry, unless your email is in Spam box (automatically be deleted), I will see it when I check the email. 
+
 Minor Result Error Declarations in PAPER[1] and its Detailed Experimental Results
-Authors:
-Guile Wu and Wenxiong Kang.
+Authors: Guile Wu and Wenxiong Kang.
 
 Paper: 
 [1] G. Wu and W. Kang, "Vision-based fingertip tracking utilizing curvature points clustering and hash model representation," IEEE Trans. Multimedia, vol. 19, no. 8, pp. 1730-1741, 2017.
@@ -34,4 +35,3 @@ Multiple fingertips: 377/501=75.25%
 
  
 AGAIN, we are really sorry if this error causes confusion to anyone. For more information, you are free to contact our authors Guile Wu (guile.wu.cn@ieee.org; guilewucn@gmail.com). We will be happy to address your problems if we are not in busy hour.
-
