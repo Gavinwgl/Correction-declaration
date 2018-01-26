@@ -1,5 +1,5 @@
-# Vision-based-fingertip-tracking
-Vision based fingertip detection and tracking
+# NOTE: This will be moved to our new homepage soon, waiting for information update.
+Correction declaration of the publications
 
 Minor Result Error Declarations in PAPER[1] and its Detailed Experimental Results
 Authors:
@@ -33,5 +33,5 @@ Multiple fingertips: 377/501=75.25%
  
 
  
-AGAIN, we are really sorry if this error causes confusion to anyone. For more information, you are free to contact our authors Guile Wu (guile.wu.cn@ieee.org; auguilewu@mail.scut.edu.cn ) and Wenxiong Kang (auwxkang@scut.edu.cn ). We will be happy to address your problems if we are not in busy hour.
+AGAIN, we are really sorry if this error causes confusion to anyone. For more information, you are free to contact our authors Guile Wu (guile.wu.cn@ieee.org; guilewucn@gmail.com). We will be happy to address your problems if we are not in busy hour.
 
