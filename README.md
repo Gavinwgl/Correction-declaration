@@ -13,3 +13,5 @@ In [1], which published on Jul./18/2017, we found that when we submitted the pro
 It is important to note that this minor error would not affect the other results, especially would not affect the average success rate of our proposed algorithm. Anyhow, we are really sorry if this error causes confusion to anyone. Since this paper has been published today (2017/07/18), we cannot revise it anymore but we think it is necessary and better to declare online to let everybody who is interested in [1] knows this minor error.
 
 Detailed Experimental Analyses can be found in the attached PDF.
+
+For more information, contact our authors G.Wu (auguilewu@mail.scut.edu.cn) and W. Kang (auwxkang@scut.edu.cn).
