@@ -1,4 +1,5 @@
-# NOTE: We are building a project and moving information to the new site, waiting for information update.
+# Correction declaration of the publication [1].
+Note: We are building a project and moving information to the new site, waiting for information update.
 Correction declaration of the publication.
 
 Minor Result Error Declarations in PAPER[1] and its Detailed Experimental Results
